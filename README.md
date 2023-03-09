@@ -24,17 +24,18 @@ Ingeniería Mecatrónica (Septiembre del 2022) - Universidad de San Buenaventura
 Técnico en instalaciones eléctricas en baja tensión (2016) - Centro de desarrollo agroempresarial (SENA)
 
 ## 💡 **Lenguajes de programación** 
-`Python` `SQL` `javascript` `C++` `Json` `Assembly` `bash script` `HTML` `R`  ...
+`tensorflow` `pytorch` `Python` `SQL` `javascript` `C++` `Json` `Assembly` `bash script` `HTML` `R` ` VHDL`  ...
 
 ### Logros
  - _**Tesis meritoria:** “Esquema de control por modo deslizante asistido por identificación algebraica de parámetros para el seguimiento de trayectorias en motores PMSM” Universidad de San Buenaventura. Bogotá 2022._
  - _**Publicacíon:** Algebraic Identification Approach for Parameter Estimation in Permanent Magnet Synchronous Motors, 2021 IEEE 5th Colombian Conference on Automatic Control <a href="https://ieeexplore.ieee.org/abstract/document/9633290" target="_blank">(CCAC)</a>._
 
 
+### :wrench: **Diseño CAD**
+`AutoCAD` `Inventor - Autodesk`  `Solid Edge` y `Solidworks`
 
 <!-- ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ``` -->
-
